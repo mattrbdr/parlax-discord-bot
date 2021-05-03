@@ -1,0 +1,20 @@
+{
+  "name": "paralxbot",
+  "version": "1.0.0",
+  "description": "Bot pour ParalX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrbabouin",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "os": "^0.1.1",
+    "superagent": "^5.0.5"
+  }
+}
